@@ -5,9 +5,6 @@ body{
 #anaLogo1{
     float : none;
 }
-#anaPano{
-    float : right;
-}
 
 body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -88,11 +85,4 @@ input[type="submit"] {
 
 input[type="submit"]:hover {
     background-color: #555;
-}
-
-footer {
-    background-color: #0C0D0E;
-    color: #fff;
-    padding: 20px;
-    text-align: center;
 }
